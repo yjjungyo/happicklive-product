@@ -1,6 +1,6 @@
 spring:
   application: 
-    name: HappickLive
+    name: HappickliveProduct
   profiles: 
     active: default
   datasource:
