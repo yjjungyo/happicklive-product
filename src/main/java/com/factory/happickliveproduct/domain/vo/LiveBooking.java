@@ -1,16 +1,13 @@
 package com.factory.happickliveproduct.domain.vo;
 
-import java.util.Date;
-import java.util.List;
-
-import javax.persistence.EnumType;
-import javax.persistence.Enumerated;
-
 import com.factory.happickliveproduct.domain.enums.LiveStatus;
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
+import java.util.Date;
 
 @Data //lombok annotation
 @AllArgsConstructor //lombok annotation
